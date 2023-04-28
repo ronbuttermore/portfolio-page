@@ -8,7 +8,7 @@ This webpage was created to provide visitors the ability to learn more about me,
 
 The information contained in this webpage can be accessed via any browser by navigating to https://ronbuttermore.github.io/portfolio-page/. The three links in the top right of the navigation bar at the top of the page can be clicked on to quickly jump to one of the three main content sections of the webpage.
 
-![This image is a screenshot of the Portfolio webpage.](assets/images/screenshot.PNG)
+![This image is a screenshot of the Portfolio webpage.](assets/images/screenshot2.PNG)
 
 ## License
 
