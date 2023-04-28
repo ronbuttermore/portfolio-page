@@ -10,6 +10,10 @@ The information contained in this webpage can be accessed via any browser by nav
 
 ![This image is a screenshot of the Portfolio webpage.](assets/images/screenshot2.PNG)
 
+## Credits
+
+Parts of the styling and structure of the projects section of this webpage was built using code snippiets from the Larnantino // Web Developer webpage given as an example for this bootcamp challenge.
+
 ## License
 
 MIT Open-Source License
