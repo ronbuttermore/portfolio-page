@@ -12,7 +12,7 @@ The information contained in this webpage can be accessed via any browser by nav
 
 ## Credits
 
-Parts of the styling and structure of the projects section of this webpage was built using code snippiets from the Larnantino // Web Developer webpage given as an example for this bootcamp challenge.
+Parts of the styling and structure of the projects section of this webpage was built using code snippets from the Larnantino // Web Developer webpage given as an example for this bootcamp challenge.
 
 ## License
 
